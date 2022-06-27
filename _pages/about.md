@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.javeriana.edu.co/inicio'>Pontificia Universidad Javeriana</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.javeriana.edu.co'>Pontificia Universidad Javeriana</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
