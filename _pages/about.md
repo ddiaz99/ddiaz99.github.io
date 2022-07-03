@@ -6,7 +6,7 @@ subtitle: <a href='https://www.javeriana.edu.co'>Pontificia Universidad Javerian
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_Diego.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p> </p>
