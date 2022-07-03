@@ -2,31 +2,35 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Diego Fernando Díaz Padilla
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th November 1999
     - name: Languages
-      value: English, German
+      value: Spanish, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Pontificia Universidad Javeriana, Bogotá, Colombia
+      institution: B.Sc. in Electronic Engineering
+      year: 2017-2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.1/5.0
+        - Department of Electronic Engineering
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      
+      institution: B.Sc. in Mathematics
+      year: 2018-present
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.2/5.0
+        - Department of Mathematics
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Experience
   type: time_table
