@@ -29,20 +29,9 @@ I also have a passion for music, song writing and guitar playing.
 #### theses
 * Undergraduate thesis: <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a>
 
-
-[Piecewise linear signals for analog order filters](https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf)
-
 Advisors: [Alfredo Restrepo Palacios, Ph.D.](https://alfredorestrepo.academia.edu/) and [Jesús Alonso Ochoa Arango, Ph.D.](https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ).
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Pontificia Universidad Javeriana, Bogotá, Colombia
-      institution: B.Sc. in Mathematics
-      year: 2018-present
-      description:
-        - GPA 4.2/5.0
-        - Department of Mathematics
+
