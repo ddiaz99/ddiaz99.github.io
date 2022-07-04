@@ -28,6 +28,6 @@
 - title: Theses
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Piecewise linear signals for analog order filters</a>
+    - title: <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a>, B.Sc. Electronic Engineering
       year: 2022
-      description: Superbised by [Alfredo Restrepo Palacios, Ph.D.](https://alfredorestrepo.academia.edu/) and [Jesús Alonso Ochoa Arango, Ph.D.](https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ).
+      description: Superbised by <a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios, Ph.D.</a> and <a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango, Ph.D.</a>
