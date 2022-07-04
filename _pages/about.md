@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an electronic engineer and mathematics student interested in signal processing, machine learning, data science and its interactions with topology, differential geometry and optimization. I was supervised by <a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios, Ph.D.</a> and <a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango, Ph.D.</a>.
+I am an electronic engineer and mathematics student interested in signal processing, machine learning, data science and its interactions with topology, differential geometry and optimization. I was supervised by Dr.<a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios</a> and Dr.<a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango</a>.
 
 I also have a passion for music, song writing and guitar playing.
 
