@@ -27,5 +27,6 @@ I also have a passion for music, song writing and guitar playing.
 * 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Pontificia Universidad Javeriana.
 
 #### theses
-* [*Piecewise linear signals for analog order filters*](https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf)
+* Undergraduate thesis: [Piecewise linear signals for analog order filters](https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf)
+
 Advisors: [Alfredo Restrepo Palacios, Ph.D.](https://alfredorestrepo.academia.edu/) and [Jesús Alonso Ochoa Arango, Ph.D.](https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ).
