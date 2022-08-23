@@ -22,5 +22,5 @@ I am an electronic engineer and mathematics student interested in machine learni
 I am passionate about music, I write songs and play the guitar, love rock in all its forms. Big fan of cycling, trekking and travelling. 
 
 ### education
-* 2018.07 - Present: B.Sc. in Mathematics, Pontificia Universidad Javeriana.
-* 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Pontificia Universidad Javeriana.
+* 2018.07 - Present: B.Sc. in Mathematics, Javerina University.
+* 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Javeriana University.
