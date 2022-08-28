@@ -1,11 +1,29 @@
 ---
 layout: post
-title: Mathematics of space-time
+title: The theory of relativity
 date: 2022-08-23 11:12:00-0400
 description: Review of the fundamentals of general relativity
 tags: formatting math
 categories: sample-posts
 --- 
+In 1905 Albert Einstein published what would become known as the theory of special relativity in an article titled "Zur Elektrodynamik bewegter Körper", and later in 1915 he published the theory of general relativity, perhaps the most beautiful theory of how the universe works on large scales. In this blog we will explore relativity from physical intuition and mathematical rigor, or well, that is my wish.
+
+First a little context about the problem that plagued physics at the time. It follows from Maxwell's equations that light is not only an electromagnetic wave, but also that it travels with a constant velocity independent of the motion of the source or the observer, something that conflicts with the Galilean transformations on which Newton's laws are based. Maxwell's equations are in fact not invariant under Galilean transformations. In 1904 Hendrik Lorentz managed to find the exact transformations that leave Maxwell's equations invariant as well as the wave equation in vacuum. Einstein affirmed that the Lorentz transformations were precisely the ones that should be used, and from there many consequences were derived that we will see later on. However, we will take a more general route and explore Minkowski space-time. 
+
+Let $V$ be a $\mathbb{R}$-vector space of dimension $4$. Let $c>0$ and choose a basis $e=(e_{1},e_{2},e_{3},e_{4})$ of $V$. Define a inner product on $V$ for two vector $u=x_{1}e_{1}+y_{1}e_{2}+z_{1}e_{3}+t_{1}e_{4}$ and $v=x_{2}e_{1}+y_{2}e_{2}+z_{2}e_{3}+t_{2}e_{4}$
+$$
+\left\langle u,v \right\rangle _{e} := x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2} - c^{2}t_{1}t_{2}
+$$
+
+
+
+
+
+$$
+\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_{0}}, & \nabla\cdot \mathbf{B} = 0, \nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial}
+$$
+
+
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
 
 Euler
