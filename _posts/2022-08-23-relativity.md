@@ -12,7 +12,7 @@ First a little context about the problem that plagued physics at the time. It fo
 
 Let $$V$$ be a $$4$$-dimensional $R$-vector space. Let $$c>0$$ and choose a basis $$e=(e_{1},e_{2},e_{3},e_{4})$$ of $$V$$. Define a inner product on $V$ for two vectors $$u=x_{1}e_{1}+y_{1}e_{2}+z_{1}e_{3}+t_{1}e_{4}$$ and $$v=x_{2}e_{1}+y_{2}e_{2}+z_{2}e_{3}+t_{2}e_{4}$$ by:
 $$
-\left\langle u,v \right\rangle _{e} := x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2} - c^{2}t_{1}t_{2}
+\left<  u,v \right> _{e} := x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2} - c^{2}t_{1}t_{2}
 $$
 
 
