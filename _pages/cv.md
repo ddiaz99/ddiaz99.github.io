@@ -7,7 +7,7 @@ cv_pdf: DiegoDiaz_cv.pdf
 ---
 
 <center>
-If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/DiegoDiaz_cv.pdf" target="_blank">here</a>.
+In case the embedded version of my CV fails to load, you can obtain a copy by downloading it from <a href="/assets/pdf/DiegoDiaz_cv.pdf" target="_blank">here</a>.
 </center>
 
 <br>
