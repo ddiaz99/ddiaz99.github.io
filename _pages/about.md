@@ -27,4 +27,4 @@ I am passionate about music, writing songs and playing guitar.
 
 ### Theses
 * <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
-* An Uncertainty Principle for Functions with Symmetris over Generic Finite Fields</a> B.Sc. Mathematics, 2023.
+* An Uncertainty Principle for Functions with Symmetris over Generic Finite Fields B.Sc. Mathematics, 2023.
