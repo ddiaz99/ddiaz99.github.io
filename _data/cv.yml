@@ -15,19 +15,17 @@
       institution: B.Sc. in Mathematics
       year: 2018-present
       description:
-        - GPA 4.2/5.0
-        - Department of Mathematics
     - title:
       institution: B.Sc. in Electronic Engineering
       year: 2017-2022
       description:
-        - GPA 4.1/5.0
-        - Department of Electronic Engineering
       
 
 - title: Theses
   type: time_table
   contents:
-    - title: <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering
+    - title: 
+      institution: <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering
       year: 2022
       description: 
+      
