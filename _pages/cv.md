@@ -3,10 +3,17 @@ layout: page
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 3
 cv_pdf: DiegoDiaz_cv.pdf
 ---
 
-<object data="/_pdfs/DiegoDiaz_cv.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Your browser doesn't support PDFs. <a href="/_pdfs/DiegoDiaz_cv.pdf">Download the PDF</a> instead.</p>
+<center>
+If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/DiegoDiaz_cv.pdf" target="_blank">here</a>.
+</center>
+
+<br>
+
+<center>
+<object data="/assets/pdf/DiegoDiaz_cv.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf">
+    <embed src="/assets/pdf/DiegoDiaz_cv.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf" />
 </object>
+</center>
