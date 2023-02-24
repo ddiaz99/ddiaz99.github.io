@@ -7,8 +7,6 @@ tags: formatting math
 categories: sample-posts
 --- 
 
-<div class="post-content">
-
 
 In 1905, Albert Einstein published his groundbreaking theory of special relativity in a paper titled "**Zur Elektrodynamik bewegter Körper**". A decade later, in 1915, he presented his theory of general relativity, widely regarded as one of the most exquisite explanations of how the universe operates on a large scale. Understanding relativity has always been a personal interest of mine, which is why I began this blog. Initially, we'll explore special relativity through the lens of Minkowski spacetime. In 1908, Minkowski realized that this geometrical perspective provided a better understanding of special relativity.
 
@@ -20,4 +18,3 @@ $$
 
 A $$4$$-dimensional vector space $$V$$ on which a Minkowski scalar product is defined is called a **Minkowski space (or spacetime)**.
 
-</div>
