@@ -17,3 +17,18 @@ $max-content-width: {{ site.max_width }};
 .post-content {
   text-align: justify;
 }
+
+
+// esta parte es nueva:
+.axioms {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+}
+.axioms li:before {
+  content: "•";
+  margin-right: 0.5em;
+  color: #0088cc;
+  font-size: 1.2em;
+}
+
