@@ -16,10 +16,7 @@ $max-content-width: {{ site.max_width }};
 
 .post-content {
   text-align: justify;
-}
-
-.page__content {
-  background-image: url('/assets/img/fondo.jpg');
+  background-image: url('/assets/img/fondo.jpg'); // a partir de aquí no estaba
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
