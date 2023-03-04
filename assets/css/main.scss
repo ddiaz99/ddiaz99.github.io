@@ -18,17 +18,10 @@ $max-content-width: {{ site.max_width }};
   text-align: justify;
 }
 
-
-// esta parte es nueva:
-.axioms {
-  list-style: none;
-  margin-left: 0;
-  padding-left: 1em;
-}
-.axioms li:before {
-  content: "•";
-  margin-right: 0.5em;
-  color: #0088cc;
-  font-size: 1.2em;
+.page__content {
+  background-image: url('/assets/img/fondo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
