@@ -31,10 +31,7 @@ I am passionate about music, writing songs and playing guitar.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 h-100">
-        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0 h-100">
-        {% include figure.html path="assets/img/complex.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/teselacion.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
