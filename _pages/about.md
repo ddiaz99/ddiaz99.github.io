@@ -25,24 +25,21 @@ I am passionate about music, writing songs and playing guitar.
 * 2018.07 - Present: B.Sc. in Mathematics, Javerina University.
 * 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Javeriana University.
 
+### theses
+* <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
+* An Uncertainty Principle for Functions with Symmetris over Generic Finite Fields B.Sc. Mathematics, 2023.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 h-100">
         {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 h-100">
         {% include figure.html path="assets/img/complex.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
-
-
-### theses
-* <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
-* An Uncertainty Principle for Functions with Symmetris over Generic Finite Fields B.Sc. Mathematics, 2023.
-
 
 I believe in Federico Ardila's axioms:
 - Axiom 1: Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
