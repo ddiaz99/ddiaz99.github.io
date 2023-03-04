@@ -38,7 +38,9 @@ I am passionate about music, writing songs and playing guitar.
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    Do mathematics only if you are passionate about it, only if you would do it even if you had to find the time for it after a full day's of work in another job. Like poetry and music, mathematics is not an occupation but a vocation.
+
+    - Béla Bollobás
 </div>
 
 I believe in Federico Ardila's axioms:
