@@ -17,8 +17,6 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img src="/assets/img/complex.jpg" alt="Alt text" title="Optional title" style="opacity: 1; width: 50%;">
-
 I am an electronic engineer and mathematics student interested in applied mathematics, specifically in statistical learning theory, information theory and computational algebraic topology. I am also a member of the Analysis, PDE's and Applications research group, where we specialize in Control Theory. During my undergraduate degrees I was supervised by Dr. <a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios</a> and Dr. <a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango</a>.
 
 I am passionate about music, writing songs and playing guitar.
@@ -26,6 +24,20 @@ I am passionate about music, writing songs and playing guitar.
 ### education
 * 2018.07 - Present: B.Sc. in Mathematics, Javerina University.
 * 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Javeriana University.
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/complex.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+
 
 ### theses
 * <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
