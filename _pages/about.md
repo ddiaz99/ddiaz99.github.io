@@ -26,7 +26,7 @@ I am passionate about music, writing songs and playing guitar.
 * 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Javeriana University.
 
 ### theses
-* An uncertainty principle for functions with symmetries over generic finite fields B.Sc. Mathematics, 2023.
+* An uncertainty principle for functions with symmetries over finite fields B.Sc. Mathematics, 2023.
 * <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
 
 
