@@ -30,10 +30,8 @@ I am passionate about music, writing songs and playing guitar.
 * <a href="https://ddiaz99.github.io/assets/pdf/TG_DiegoDiaz_Senales_Lineales_a_Trozos_para_Filtros_de_Orden_Analogicos.pdf" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0 h-100">
-        {% include figure.html path="assets/img/complex.png" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="container">
+  <img src="assets/img/complex.png" class="img-fluid" alt="Mandelbrot Set">
 </div>
 <div class="caption">
 The mathematician’s patterns, like the painter’s or the poet’s must be beautiful; the ideas, like the colors or the words must fit together in a harmonious way.
