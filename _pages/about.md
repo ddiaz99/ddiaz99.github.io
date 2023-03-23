@@ -32,13 +32,13 @@ I am passionate about music, writing songs and playing guitar.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 h-100">
-        {% include figure.html path="assets/img/teselacion.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/complex.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Do mathematics only if you are passionate about it, only if you would do it even if you had to find the time for it after a full day's of work in another job. Like poetry and music, mathematics is not an occupation but a vocation.
+The mathematician’s patterns, like the painter’s or the poet’s must be beautiful; the ideas, like the colors or the words must fit together in a harmonious way.
 
-    - Béla Bollobás
+    - Godfrey Harold Hardy
 </div>
 
 I believe in Federico Ardila's axioms:
