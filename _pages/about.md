@@ -27,7 +27,6 @@ I am passionate about music, writing songs and playing guitar.
 
 ### theses
 * An uncertainty principle for functions with symmetries over finite fields B.Sc. Mathematics, 2023.
-* 
 * <a href="https://repository.javeriana.edu.co/bitstream/handle/10554/63914/481-attachment-1655772312.pdf?sequence=1&isAllowed=y" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
 
 
