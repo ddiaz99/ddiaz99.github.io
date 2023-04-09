@@ -29,18 +29,6 @@ I am passionate about music, writing songs and playing guitar.
 * An uncertainty principle for functions with symmetries over finite fields B.Sc. Mathematics, 2023.
 * <a href="https://repository.javeriana.edu.co/bitstream/handle/10554/63914/481-attachment-1655772312.pdf?sequence=1&isAllowed=y" target="_blank">Piecewise linear signals for analog order filters</a> B.Sc. Electronic Engineering, 2022.
 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/complex.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-The mathematician’s patterns, like the painter’s or the poet’s must be beautiful; the ideas, like the colors or the words must fit together in a harmonious way.
-
-    - Godfrey Harold Hardy
-</div>
-
 I believe in Federico Ardila's axioms:
 - Axiom 1: Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
 - Axiom 2: Everyone can have joyful, meaningful, and empowering mathematical experiences.
