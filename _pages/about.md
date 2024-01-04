@@ -17,13 +17,13 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an electronic engineer and mathematics student interested in applied mathematics, specifically in statistical learning theory, information theory and computational algebraic topology. I am also a member of the Analysis, PDE's and Applications research group, where we specialize in Control Theory. During my undergraduate degrees I was supervised by Dr. <a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios</a> and Dr. <a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango</a>.
+I am from Colombia. I obtained Bachelor's degrees in mathematics and electronic engineer. I am interested in Algebra, in particular Representation Theory and its interactions with Lie Theory, Number Theory, and Mathematical Physics. During my undergraduate degrees I was supervised by Dr. <a href="https://alfredorestrepo.academia.edu/" target="_blank">Alfredo Restrepo Palacios</a> and Dr. <a href="https://scholar.google.es/citations?hl=es&user=Pcs9Vv0AAAAJ" target="_blank">Jesús Alonso Ochoa Arango</a>.
 
-I am passionate about music, writing songs and playing guitar.
+I am passionate about music, writing songs and playing guitar. You can find a song of my <a href="https://www.youtube.com/watch?v=40daV-R6fv8&ab_channel=HeathartProductions%26Records" target="_blank">here</a>.
 
 ### education
-* 2018.07 - Present: B.Sc. in Mathematics, Javeriana University.
-* 2017.01 - 2022.07: B.Sc. in Electronic Engineering, Javeriana University.
+* 2018 - 2023: B.Sc. in Mathematics, Javeriana University.
+* 2017 - 2022: B.Sc. in Electronic Engineering, Javeriana University.
 
 ### theses
 * An uncertainty principle for functions with symmetries over finite fields B.Sc. Mathematics, 2023.
